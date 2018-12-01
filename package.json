@@ -1,17 +1,17 @@
 {
-  "name": "display-settings-panel-theme",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "add-px-to-style": "^1.0.0",
-    "color-interpolate": "^1.0.4",
-    "scope-css": "^1.2.1",
-    "tinycolor2": "^1.4.1"
-  }
+	"name": "distplay-settings-panel-theme",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"add-px-to-style": "^1.0.0",
+		"color-interpolate": "^1.0.4",
+		"scope-css": "^1.2.1",
+		"tinycolor2": "^1.4.1"
+	}
 }
